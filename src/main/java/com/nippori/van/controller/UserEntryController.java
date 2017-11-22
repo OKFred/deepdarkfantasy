@@ -19,6 +19,7 @@ public class UserEntryController {
 
     @RequestMapping("/{id}")
     public User view(@PathVariable("id") String id){
+        //添加一行注释，看github是否及时更新
         User user = userMapper.getOne(id);
         return user;
     }
