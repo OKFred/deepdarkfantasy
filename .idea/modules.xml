@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../deepdarkfantasy/.idea/modules/deepdarkfantasy.iml" filepath="$PROJECT_DIR$/../deepdarkfantasy/.idea/modules/deepdarkfantasy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deepdarkfantasy/.idea/modules/deepdarkfantasy_main.iml" filepath="$PROJECT_DIR$/../deepdarkfantasy/.idea/modules/deepdarkfantasy_main.iml" group="deepdarkfantasy" />
+      <module fileurl="file://$PROJECT_DIR$/../deepdarkfantasy/.idea/modules/deepdarkfantasy_test.iml" filepath="$PROJECT_DIR$/../deepdarkfantasy/.idea/modules/deepdarkfantasy_test.iml" group="deepdarkfantasy" />
+    </modules>
+  </component>
+</project>
