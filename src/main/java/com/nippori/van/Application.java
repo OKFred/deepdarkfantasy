@@ -12,13 +12,15 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
  */
 @SpringBootApplication
 @MapperScan("com.nippori.van.mapper")
-public class Application extends SpringBootServletInitializer {
+public class Application{// extends SpringBootServletInitializer {
+
     public static void main(String[] args){
         SpringApplication.run(Application.class);
     }
 
-    @Override
-    protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-        return builder.sources(Application.class);
-    }
+//    @Override
+//    protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+//        return builder.sources(Application.class);
+//    }
+
 }
