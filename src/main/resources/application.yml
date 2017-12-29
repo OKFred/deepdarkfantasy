@@ -1,0 +1,9 @@
+author:
+    name: Caesar
+    gender: male
+    age: 24
+
+server:
+    sysInfo: windows7_x64
+    javaVersion: 1.8
+    database: oracle
